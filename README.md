@@ -1,2 +1,2 @@
 # JavaLearning
-My java project.
+Java project courses.
