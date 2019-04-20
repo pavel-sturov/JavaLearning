@@ -1,3 +1,3 @@
 # JavaLearning
 Famous gallows.
-This is my first java game.
+This is my first game on Java.
